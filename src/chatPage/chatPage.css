@@ -1,0 +1,47 @@
+.channelList{
+position: relative;
+left: 0%;
+right: 75.69%;
+top: 0%;
+bottom: 0%;
+}
+
+.listOfChannels{
+    position: relative;
+    top: 180px;
+}
+
+.chatNavFirst{
+    position: absolute;
+width: 320px;
+height: 34px;
+left: 11px;
+top: 11px;
+}
+
+
+
+.chatNavSecond{
+    position: absolute;
+width: 320.33px;
+height: 36px;
+left: 16px;
+top: 62px;
+}
+
+.chatNavThird{
+    position: absolute;
+width: 320px;
+height: 59px;
+left: 11px;
+top: 111px;
+color: white;
+}
+
+
+.chatNavThird > button{
+    width: 105px;
+    height: 56px;
+    background-color: rgb(32, 32, 32);
+    color: white;
+}
